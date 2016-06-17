@@ -1,0 +1,16 @@
+<?php
+// Heading
+$_['heading_title']    = '<b><i>OC Product Rotator Image</i></b>';
+
+// Text
+$_['text_module']      = 'Modules';
+$_['text_success']     = 'Success: You have modified Product Rotator Image module!';
+$_['text_edit']        = 'Edit Product Rotator Image Module';
+
+// Entry
+$_['entry_name']       = 'Module Name';
+$_['entry_status']     = 'Status';
+$_['entry_is_rotator'] = 'Is Rotator Image';
+
+// Error
+$_['error_permission'] = 'Warning: You do not have permission to modify Product Rotator Image module!';
